@@ -8,6 +8,7 @@
 
 ## Running locally
 
-just give the **npm start** command
+Just give the **npm start** command from a terminal.
+Make sure you have installed all packages by giving the **npm i** command earlier.
 
 
